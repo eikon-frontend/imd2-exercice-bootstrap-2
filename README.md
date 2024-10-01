@@ -1,4 +1,4 @@
-# Exercice Bootstrap 1
+# Exercice Bootstrap 2
 
 ## Installation
 
